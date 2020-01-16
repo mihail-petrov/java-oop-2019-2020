@@ -17,3 +17,6 @@ In each of the folders, you can find materials that will be easily divided into 
 
 ## Contacts and comunication 
 If you have any extra questions the official E-mail for corespondation with me regarding the topics of this course is **mail@mihail-petrov.me**
+
+## Marks and Scores
+The official marks and scores of the course  [ can be found HERE](https://docs.google.com/spreadsheets/d/1ZPbzR76i7ToggDsaRYjxqlzkHJ410molyKE3VOll44I/edit?usp=sharing)
